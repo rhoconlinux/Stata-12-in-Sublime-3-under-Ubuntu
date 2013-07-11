@@ -12,7 +12,7 @@ What we need (Stata12 and Sublime3)
 3) we need symbolic links for xstata and stata commands, so they will be able to run at the system level. To do so, run in a terminal
 <code>sudo ln -s /usr/local/stata12/xstata /usr/local/bin/xstata && sudo ln -s /usr/local/stata12/stata /usr/local/bin/stata</code>
 
-4) You need to download this in order to see stata code under Sublime: https://github.com/rpowers/sublime_stata
+4) You need to download and install this in order to see stata code under Sublime: https://github.com/rpowers/sublime_stata
 
 
 The tweek
